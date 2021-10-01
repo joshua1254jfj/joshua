@@ -1,0 +1,45 @@
+* {
+     padding: 10px;
+ }
+ 
+ body {
+     background-image: url(p.jpg);
+     background-size: 130pc 3000px;
+ }
+ 
+ .pp {
+     color: white;
+     font-size: 30px;
+ }
+ 
+ .text {
+     color: white;
+     text-decoration: none;
+ }
+ 
+ .w {
+     width: 50%;
+     background: #e5e8ee;
+     color: black;
+     padding: 12px;
+ }
+ 
+ .boton {
+     width: 50%;
+     background: #dfe2eb;
+     border: none;
+     padding: 12px;
+     color: black;
+     margin: 16px 0;
+     font-size: 16px;
+     text-decoration: none;
+ }
+ 
+ .laft {
+     color: white;
+     text-decoration: none;
+ }
+ 
+ .pd {
+     font-size: 60px;
+ }
